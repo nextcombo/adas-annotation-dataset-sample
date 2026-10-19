@@ -2,6 +2,8 @@
 
 > This document is written from a direct, file-by-file inspection of the actual sample files in the `data car` folder on the Desktop. It records the data layout, sensor configuration, annotation format, and per-category details. **Important: this folder is a *sample* dataset, not the full dataset**, and is intended only for evaluating data format and quality — it must not be used directly as a training set.
 
+> **Contact / Data Access** — If you need the full dataset or a partial subset, please contact **lonlonago@foxmail.com**. Data is billed by volume (priced per quantity).
+
 ---
 
 ## 0. Important Notice (Sample Nature)
@@ -407,3 +409,12 @@ This sample covers only **part** of the categories; the full set (~5M frames) is
 
 ---
 *Document compiled from a direct file inspection of the `data car` sample (2026-10-18) and the provider's supplementary information. All annotations are human-labeled (source=manual).*
+
+---
+
+## 10. Contact / Data Access
+
+If you need the **full dataset** or a **partial subset**, please contact **lonlonago@foxmail.com**.
+
+- Data is billed by volume — **priced per quantity** (e.g., by number of frames / sequences).
+- This sample (the `data car` folder) is provided for format and quality evaluation only and does not include the full dataset.
